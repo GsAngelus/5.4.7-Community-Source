@@ -1,0 +1,1 @@
+[![Board Status](https://dev.azure.com/Galactic-Shrine/924f536a-8f56-422d-a0cc-7a33dd169d56/280f378d-8159-4578-88a9-f1fb56e6c76a/_apis/work/boardbadge/537dde6e-4e4a-449e-b488-5c0c1bfd0a11)](https://dev.azure.com/Galactic-Shrine/924f536a-8f56-422d-a0cc-7a33dd169d56/_boards/board/t/280f378d-8159-4578-88a9-f1fb56e6c76a/Microsoft.RequirementCategory)
